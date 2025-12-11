@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muhammed Mustafa</h1>
+<h1 align="center">Hi, I'm Mohamed Mostafa </h1>
 <h3 align="center">Data Analyst | Business Intelligence | KPI-Driven Insights</h3>
 
 <p align="center">
