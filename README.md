@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohamed Mostafa </h1>
-<h3 align="center">Data Analyst | Business Intelligence | KPI-Driven Insights</h3>
+<h3 align="center">Data Analyst</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MuhammedMustafa9&label=Profile%20Views&color=blue&style=flat" />
