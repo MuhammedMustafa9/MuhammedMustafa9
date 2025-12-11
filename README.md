@@ -61,9 +61,3 @@ I build interactive dashboards, automate reporting workflows, and support decisi
   <a href="https://mavenshowcase.com/profile/1891a370-a0c1-701b-d918-8be0c75728f8"><img src="https://img.icons8.com/color/48/000000/user-male-circle.png" title="Mavenshowcase"/></a>
 </p>
 
----
-
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedMustafa9&show_icons=true&theme=dark" />
-</p>
